@@ -1,0 +1,1 @@
+setSystemSetting("AutoTimeZone:auto_time_zone","1");setSystemSetting("AutoTime:auto_time","0");setTime("Local","01:00:00");setDate("Local","2023-12-11");
